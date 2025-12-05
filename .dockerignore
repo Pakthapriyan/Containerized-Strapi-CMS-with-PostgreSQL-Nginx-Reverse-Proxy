@@ -1,0 +1,14 @@
+node_modules
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/patches
+dist
+build
+.cache
+data
+public/uploads
+tmp
+.git
+Dockerfile
